@@ -2,7 +2,7 @@
   "name": "mdev1004-m2023-ice8",
   "version": "0.0.8",
   "description": "This is a demo project for MDEV1004 - ICE 8 - in the Summer 2023 semester at Georgian",
-  "author": "Tom Tsiliopoulos",
+  "author": "Parul Gautam",
   "engines": {
     "node": "20.2.0",
     "npm": "9.6.6",
